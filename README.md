@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @snailschool
-- 👀 I’m interested in snails
-- 🌱 I’m currently learning fun snail facts
-- 💞️ I’m looking to collaborate on snail-related projects
-- 📫 How to reach me: via snail mail of course
+- 👀 I’m interested in web development and UI/UX
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me: email me at caitcole622@gmail.com
 
 <!---
 snailschool/snailschool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
